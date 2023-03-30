@@ -1,0 +1,13 @@
+body {background-color: yellow;}
+
+
+h1 { font-size-adjust: 30px;
+    color: salmon; }
+h2{
+    font-size-adjust:  20px;
+    color: hotpink;
+    }
+.big{font-size: 60px;}
+span h1 {
+    color: violet;
+}
